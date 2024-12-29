@@ -1,0 +1,21 @@
+{
+  "name": "mbare-website",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Website for the mbare community",
+  "author": {
+    "name": "mbare.dev",
+    "email": "mbare.dev@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "normalize.css": "^8.0.1"
+  }
+}
